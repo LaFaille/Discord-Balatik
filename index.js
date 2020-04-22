@@ -60,7 +60,7 @@ client.on('message', function (message) {
 //Message de bienvenue//
 client.on('guildMemberAdd', function (member) {
   member.createDM().then(function (channel) {
-      return channel.send('𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙪𝙚 𝙨𝙪𝙧 𝙡𝙚 𝙙𝙞𝙨𝙘𝙤𝙧𝙙 𝕄𝟘𝕟𝕤𝕥𝟛𝕣 \n . Pas de vulgarité/racisme \n . Respectez les channel \n . Respectez la Faction M0nst3r\n 𝗠𝗲𝗿𝗰𝗶 𝗱𝗲 𝘁𝗮 𝗖𝗼𝗺𝗽𝗿𝗲́𝗵𝗲𝗻𝘀𝗶𝗼𝗻 𝗮𝗺𝘂𝘀𝗲 𝘁𝗼𝗶 𝗯𝗶𝗲𝗻! :slight_smile:')
+      return channel.send('𝘽𝙞𝙚𝙣𝙫𝙚𝙣𝙪𝙚 𝙨𝙪𝙧 𝙡𝙚 𝙙𝙞𝙨𝙘𝙤𝙧𝙙 Cap \n . Pas de vulgarité/racisme \n . Respectez les channel \n . Respectez les régle \n 𝗠𝗲𝗿𝗰𝗶 𝗱𝗲 𝘁𝗮 𝗖𝗼𝗺𝗽𝗿𝗲́𝗵𝗲𝗻𝘀𝗶𝗼𝗻 𝗮𝗺𝘂𝘀𝗲 𝘁𝗼𝗶 𝗯𝗶𝗲𝗻! :slight_smile:')
   }).catch(console.error)
 
 
