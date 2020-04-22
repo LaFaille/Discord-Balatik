@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "index.js": "^0.0.3",
     "discord.js": "^12.0.2",
+    "fs": "0.0.1-security",
+    "index.js": "^0.0.3",
     "main.js": "^0.0.1"
   },
   "devDependencies": {},
