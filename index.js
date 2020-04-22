@@ -80,7 +80,7 @@ client.on('ready', () => {
 });
 
 
-client.login("Njg2Nzk4NzExMDU3MDIzMDA5.XnPC8w.1iVuVjDqStEHFESU-95pOWjF4WQ");
+client.login("NzAyMzg1OTMzODY5MzgzNzU4.Xp_SlQ.zSkLSSy4Lx5GtDuYiRUu3jvjyck");
 
 
 
